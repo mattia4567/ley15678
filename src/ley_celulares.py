@@ -2,7 +2,7 @@
 # Laboratorio de Programación (LPR 5° Año) — E.E.S.T. N° 1 "Eduardo Ader" - Vicente López
 # ACTIVIDAD 10 BIS: Simulador de Normativa de Celulares en el Aula (Ley 15.678)
 # DOCENTE: Mansilla Muñoz York Elías y Yamil De Jesus Ganduglia
-# ESTUDIANTE: Lucas Del Pino
+# ESTUDIANTE: Federico Mattia
 # ===========================================================================================
 
 def evaluar_uso_celular(autorizacion_docente: bool, emergencia_familiar: bool,
