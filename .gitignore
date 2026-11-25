@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variables de entorno y credenciales
+.env
+*.env
+
+# Logs y temporales
+*.log
+*.tmp
