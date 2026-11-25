@@ -5,7 +5,7 @@
 
 **Docente:** Mansilla Muñoz York Elías
 
-**Estudiante:** [Apellido y Nombre]
+**Estudiante:** Federico Mattia
 
 **Actividad 10:** Conciencia digital, algoritmos y marco legal (2.º cuatrimestre, 2026)
 
